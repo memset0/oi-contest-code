@@ -8,6 +8,7 @@ data
 # OS files
 .DS_Store
 desktop.ini
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
