@@ -3,6 +3,8 @@
 *.out
 *.ans
 *.pdf
+in*.txt
+ans*.txt
 data
 
 # OS files
